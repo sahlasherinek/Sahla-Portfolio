@@ -97,7 +97,7 @@ export default function Welcome() {
         </Link>
         {/* TODO: Replace href with your actual resume link (Google Drive / Dropbox) */}
         <a
-          href="https://drive.google.com/file/d/1CZhsMBDC-1XM1uNzcQKEf3ajoEiuxKfo/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1rDbDJueRSdsPIMFB_ehqTpa75gSn8FbN/view?usp=drive_link"
           target="_blank"
           rel="noopener noreferrer"
           className="px-6 py-3 border-2 border-indigo-600 text-indigo-600 rounded-lg shadow hover:bg-indigo-50 transition duration-300 font-medium flex items-center gap-2"
